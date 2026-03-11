@@ -4,7 +4,7 @@ I'm **Daniel**, a **Product Designer** based in Berlin. I have a strong passion 
 
 ### Building now
 
-- 📙 IronCalc: an Open source spreadsheet engine for every one!
+- 📙 IronCalc: an Open source spreadsheet engine for everyone!
 
 ### In the past
 
